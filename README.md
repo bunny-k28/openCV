@@ -5,15 +5,15 @@
 
 3. Some of the python file of this reposotery are be used in our jarvis project. Those files are:-
   
-  a) cascad.py
+        a) cascad.py
   
-  b) face detection.py (this file needs one more .xml type file which is not there in my repo.
+        b) face detection.py (this file needs one more .xml type file which is not there in my repo.
   
-  c) doc scanner.py
+        c) doc scanner.py
   
-  d) no. plate detection.py (this file is not complet 7-8 lines are not there which will be there soon).
+        d) no. plate detection.py (this file is not complet 7-8 lines are not there which will be there soon).
   
-  e) wrapping.py
+        e) wrapping.py
 
 4. If you want to change the colors of your virtual paint then visit or paste this web-site link www.rapidtables.com/web/color/RGB_Color.html and chose your RGB color codes and paste that in the colorContor list.
 
